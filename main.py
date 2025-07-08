@@ -81,7 +81,7 @@ def send_message():
     label { color: white; animation: fadeIn 1s; }
     .file { height: 30px; animation: bounce 2s infinite; }
     body {
-      background-image: url('https://raw.githubusercontent.com/Mryuvi1/Videos-x/main/VID-20250702-WA0012.mp4');
+      background-image: url('https://i.postimg.cc/Pfv9BTvt/IMG-20250708-WA0001.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
